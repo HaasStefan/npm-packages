@@ -1,6 +1,6 @@
 {
   "name": "logger",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "peerDependencies": {
     "@angular/common": "^14.1.0",
     "@angular/core": "^14.1.0"
